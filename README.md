@@ -1,4 +1,4 @@
-# Netflix Interface
+# Netflix Interface 🎥
 
 # Sobre o projeto
 
