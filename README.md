@@ -15,7 +15,7 @@ A aplicação consiste em uma imitação da interface da famosa streaming Netfli
 
 # Autor
 
-(Créditos ao canal "Tiger Codes" no YouTube de onde foi tirada a inspiração)
+(Todos os direitos ao canal "Tiger Codes" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
